@@ -64,7 +64,7 @@ header {
           text-align: center;
           font-family: 'Georgia', Times, "Times New Roman", serif;
           font-size: 31px;
-          left: 475px;
+          left: 275px;
 
           top: 10px;
      
@@ -78,7 +78,7 @@ header {
     text-align: center;
     font-family: 'Georgia', Times, "Times New Roman", serif;
     font-size: 21px;
-    left: 1260px;
+    left: 1160px;
     top: 50px;
     
     
@@ -105,13 +105,13 @@ header {
   #connect {
     position: fixed;
     float:right;
-    left: 1270px;
+    left: 1170px;
     top: 150px;
     padding: 40px;
     margin: right;
     text-align: Center;
     background: white;
-    width: 400px;
+    width: 300px;
     font-size: 26px;
     color: #4aaaa5;
     border: 6px solid #dddddd;
@@ -242,7 +242,7 @@ div.desc {
 @media screen and (max-width: 980px) { 
   h1 {
    
-    left: 75px;
+    left: 35px;
 
   }
 
@@ -254,8 +254,11 @@ div.desc {
 
  #connect { 
 
-  left: 475px;
+  left: 575px;
+  width: 200px;
+  
  }
+
 .wrapper { 
 
   width: 50%;
@@ -274,13 +277,13 @@ p img {
 @media screen and (max-width: 768px) { 
   h1 {
    
-    left: 75px;
+    left: 20px;
 
   }
 
  .links {
 
-  left: 475px;
+  left: 375px;
   
  }
 
@@ -307,13 +310,14 @@ p img {
 @media screen and (max-width: 640px) { 
   h1 {
    
-    left: 75px;
+    left: 50px;
+width: 40%;
 
   }
 
  .links {
 
-  left: 400px;
+  left: 300px;
 
   
  }
